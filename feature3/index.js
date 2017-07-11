@@ -1,0 +1,1 @@
+console.log('This is feature3 index file');
